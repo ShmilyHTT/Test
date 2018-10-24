@@ -1,0 +1,10 @@
+D:\Test\Test\Test.IDAL\bin\Debug\Test.IDAL.dll
+D:\Test\Test\Test.IDAL\bin\Debug\Test.IDAL.pdb
+D:\Test\Test\Test.IDAL\bin\Debug\Test.Model.dll
+D:\Test\Test\Test.IDAL\bin\Debug\EntityFramework.dll
+D:\Test\Test\Test.IDAL\bin\Debug\Test.Model.pdb
+D:\Test\Test\Test.IDAL\bin\Debug\EntityFramework.xml
+D:\Test\Test\Test.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Test\Test\Test.IDAL\obj\Debug\Test.IDAL.csprojResolveAssemblyReference.cache
+D:\Test\Test\Test.IDAL\obj\Debug\Test.IDAL.dll
+D:\Test\Test\Test.IDAL\obj\Debug\Test.IDAL.pdb
