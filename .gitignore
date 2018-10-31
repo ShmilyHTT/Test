@@ -334,4 +334,4 @@ ASALocalRun/
 .localhistory/
 
 #Web.config
-*.config
+Web.config
