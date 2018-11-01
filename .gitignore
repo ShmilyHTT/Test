@@ -334,4 +334,6 @@ ASALocalRun/
 .localhistory/
 
 #Web.config
+Web.config
+/Test/使用说明文档.txt
 /Test/Test/Web.config
